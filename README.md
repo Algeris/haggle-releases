@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/icon.png" width="150" alt="Haggle Assistant Logo">
+  <img src="icon.png" width="150" alt="Haggle Assistant Logo">
 
 # Haggle — Personal-Use Source AI Interview Copilot & Meeting Assistant
 
