@@ -1,0 +1,91 @@
+# Haggle Proprietary Software & Personal Use License v1.0
+
+Copyright (c) 2026 Algeris. All rights reserved.
+
+Effective Date: August 20th, 2026
+
+This license applies to versions of Haggle released by Algeris on or after the Effective Date.
+
+Haggle is proprietary commercial desktop software, not open source.
+
+This software and its application binaries are made available for personal, non-commercial evaluation and licensed use only.
+
+By accessing, downloading, installing, running, or using this software, you agree to the terms of this license.
+
+## 1. Definitions
+
+“Software” means the Haggle application, binaries, installers, documentation, assets, build scripts, prompts, configuration files, workflows, and related materials released by Algeris.
+
+“Licensor” means Algeris.
+
+“You” means any individual, company, organization, or legal entity accessing, installing, or using the Software.
+
+“Commercial Use” means any use intended for financial gain, business advantage, revenue generation, monetization, paid distribution, paid access, internal business use, SaaS use, consulting, client work, advertising, subscriptions, sponsorships, resale, paid support, enterprise use, startup use, agency use, or any other profit-oriented activity without an active Haggle Pro / Commercial license from Algeris.
+
+## 2. Permitted Use
+
+Subject to full compliance with this license and the terms of your active subscription or device license, you may:
+
+1. Download official releases from https://github.com/Algeris/haggle-releases/releases.
+2. Install and run the Software locally for personal, evaluation, or licensed professional use in accordance with your subscription plan.
+3. Submit issues, suggestions, feedback, documentation notes, or bug reports via our public repository at https://github.com/Algeris/haggle-releases/issues.
+
+## 3. Restrictions
+
+Without prior written commercial license or authorization from Algeris, you may not:
+
+1. Sell, rent, license, sublicense, lease, monetize, or commercially distribute the Software.
+2. Offer the Software or any portion thereof as a SaaS product, hosted service, managed service, cloud service, API, desktop app, mobile app, browser extension, paid tool, or commercial service.
+3. Decompile, disassemble, reverse engineer, decrypt, or attempt to derive the proprietary source code of the Software, native audio modules, or license verification logic, except to the extent permitted by applicable mandatory law.
+4. Charge users for access to the Software or substantially similar functionality derived from the Software.
+5. Rebrand the Software or misrepresent its origin.
+6. Remove, hide, obscure, or alter copyright notices, license notices, attribution notices, legal notices, official build identifiers, provenance markers, or references to Algeris.
+7. Circumvent, disable, remove, or modify license validation checks, cryptographic signatures, or technical security measures.
+
+## 4. No Hosted or Managed Service
+
+You may not provide the Software to third parties as a hosted service, managed service, SaaS product, cloud service, API, desktop product, mobile product, browser extension, or paid tool without prior written permission from Algeris.
+
+## 5. Branding and Trademarks
+
+Algeris retains all rights in the names “Haggle”, “Algeris”, associated logos, product names, domain names, icons, branding, trade dress, and trademarks.
+
+You may not use names, logos, domains, package names, UI branding, marketing materials, or trade dress that are confusingly similar to Haggle or likely to mislead users into believing that an unauthorized product is official, affiliated, endorsed, sponsored, or approved by Algeris.
+
+## 6. Commercial Licensing & Inquiries
+
+For commercial licenses, enterprise deployments, or custom tier agreements:
+
+Algeris
+Email: licensing@algeris.com
+Legal: legal@algeris.com
+General Contact: contact@algeris.com
+Website: https://haggle.algeris.com
+Releases: https://github.com/Algeris/haggle-releases/releases
+
+## 7. Ownership
+
+The Software is licensed, not sold.
+
+Algeris retains all rights, title, and interest in the Software, including copyrights, trademarks, branding, binaries, documentation, architecture, prompts, workflows, designs, and related intellectual property.
+
+## 8. Termination
+
+This license terminates automatically and immediately if you violate any term.
+
+## 9. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED “AS IS” AND “AS AVAILABLE”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, SECURITY, RELIABILITY, OR ACCURACY.
+
+YOU USE THE SOFTWARE AT YOUR OWN RISK.
+
+## 10. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, ALGERIS SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF PROFITS, DATA, BUSINESS, GOODWILL, REVENUE, OR USE, ARISING OUT OF OR RELATED TO THE SOFTWARE OR THIS LICENSE.
+
+## 11. Official Links
+
+- **Terms of Service**: https://haggle.algeris.com/terms
+- **Privacy Policy**: https://haggle.algeris.com/privacy
+- **Refund Policy**: https://github.com/Algeris/haggle-releases/blob/main/refunds.md
+- **Official Releases**: https://github.com/Algeris/haggle-releases/releases
