@@ -1,10 +1,10 @@
 # Haggle Roadmap
 
-*Last updated: August 20, 2026*
+*Last updated: September 5th 2026*
 
 ## Vision
 
-Transform live meeting transcription and conversational audio into real-time negotiation coaching, profile intelligence, and strategic knowledge synthesis.
+Transform live conversational audio into real-time conversation intelligence, contextual recall, and strategic wit across meetings, pitches, interviews, dates, and debates.
 
 ---
 
@@ -14,8 +14,8 @@ Transform live meeting transcription and conversational audio into real-time neg
 **Status:** Shipped (v0.1.1)  
 **Access:** Haggle Pro / Elite
 
-Pre-configured expert modes tailored for professional negotiation scenarios:
-- **Sales Negotiation**: Real-time objection handling, value framing, pricing tactics.
+Pre-configured expert modes tailored for any conversation:
+- **Sales & Negotiation**: Real-time objection handling, value framing, pricing tactics.
 - **System Architecture**: Technical depth, scalability patterns, distributed systems.
 - **Executive & Strategy**: High-level synthesis, risk assessment, strategic alignment.
 - **Custom Persona Prompting**: User-customizable prompt instructions.
@@ -69,4 +69,4 @@ We welcome feature requests and community feedback:
 
 - **Terms of Service**: [https://haggle.algeris.com/terms](https://haggle.algeris.com/terms)
 - **Privacy Policy**: [https://haggle.algeris.com/privacy](https://haggle.algeris.com/privacy)
-- **Refund Policy**: [https://github.com/Algeris/haggle-releases/blob/main/refunds.md](https://github.com/Algeris/haggle-releases/blob/main/refunds.md)
+- **Refund Policy**: [https://github.com/Algeris/haggle-releases/blob/main/refund.md](https://github.com/Algeris/haggle-releases/blob/main/refund.md)

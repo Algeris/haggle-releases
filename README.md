@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="icon.png" width="150" alt="Haggle Assistant Logo">
+  <img src="assets/icon.png" width="150" alt="Haggle Assistant Logo">
 
-# Haggle — Personal-Use Source AI Interview Copilot & Meeting Assistant
+# Haggle — Real-Time Conversation Intelligence & Meeting Assistant
 
 **The best free alternative to Cluely, Final Round AI, LockedIn AI, and Interview Coder.**
 <br/>
-**Same UI as Cluely. More features. $0 for personal/non-commercial use. Source available. No data breaches.**
+**Same UI as Cluely. More features. Free for personal evaluation. Privacy-first architecture. No data breaches.**
 <br/>
 
-<a href="#" style="pointer-events: none; cursor: default; color: inherit; text-decoration: none;" title="#1 Cluely clone · Free Cluely alternative · Source-available interview copilot · Free Interview Coder alternative · AI coding interview assistant · LeetCode AI solver · HackerRank AI cheat · Final Round AI free alternative · LockedIn AI alternative · Parakeet AI source-available · Undetectable interview AI · Stealth mode interview copilot.Cluely clone · Cluely alternative · Free Cluely · Cluely free version · source-available Cluely ·
+<a href="#" style="pointer-events: none; cursor: default; color: inherit; text-decoration: none;" title="#1 Cluely clone · Free Cluely alternative · Personal AI interview copilot · Free Interview Coder alternative · AI coding interview assistant · LeetCode AI solver · HackerRank AI cheat · Final Round AI free alternative · LockedIn AI alternative · Parakeet AI alternative · Undetectable interview AI · Stealth mode interview copilot · Cluely clone · Cluely alternative · Free Cluely · Cluely free version ·
     Final Round AI clone · Final Round AI alternative · Free Final Round AI · Final Round AI free version ·
-    Interview Coder clone · Interview Coder alternative · Free Interview Coder · source-available Interview Coder ·
+    Interview Coder clone · Interview Coder alternative · Free Interview Coder ·
     Parakeet AI clone · Parakeet AI alternative · Free Parakeet AI ·
     Wonsulting AI clone · Wonsulting alternative · Free Wonsulting AI ·
     Metaview clone · Metaview alternative · Free Metaview ·
@@ -24,18 +24,18 @@
     Agent Claw alternative · Agent Claw clone · free Agent Claw ·
     Molt Bot clone · Molt Bot alternative · free Molt Bot ·
     Antigravity AI clone · Antigravity alternative ·
-    Devin AI alternative · source-available Devin · free Devin AI ·
+    Devin AI alternative · free Devin AI ·
     Cursor AI alternative · Cursor clone · free Cursor AI ·
-    GitHub Copilot alternative · free GitHub Copilot · source-available Copilot ·
+    GitHub Copilot alternative · free GitHub Copilot ·
     Tabnine alternative · free Tabnine · Tabnine clone ·
     Codeium alternative · free Codeium ·
     agentic coding assistant · AI pair programmer · AI coding copilot ·
     real-time interview AI · live interview assistant · hidden interview tool ·
-    source-available interview copilot · free interview AI tool · best interview AI 2026"></a>
+    free interview AI tool · best interview AI 2026"></a>
 
 <br/>
 
-[![License](https://img.shields.io/badge/License-Personal%20Use%20Source-blue?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/License-Proprietary%20%2F%20Personal%20Evaluation-blue?style=flat-square)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Windows-blueviolet?style=flat-square)](https://github.com/algeris/haggle-releases)
 [![Downloads](https://img.shields.io/github/downloads/algeris/haggle-releases/total?style=flat-square&color=success)](https://github.com/algeris/haggle-releases)
 ![Repo Views](https://img.shields.io/badge/Views-1.2M-orange?style=flat-square)
@@ -70,11 +70,11 @@
 
 ---
 
-## The Free-for-Personal-Use, Source-Available Cluely Clone
+## The Free-for-Personal-Use Desktop Cluely Alternative
 
-Haggle started as a pixel-perfect recreation of Cluely's interface — then kept going. If you've used Cluely, you already know how to use Haggle. Same overlay, same workflow, same shortcuts. Except it's free for personal, educational, research, and non-commercial use, source-available, runs locally, supports any LLM, and has never breached a single user's data.
+Haggle started as a pixel-perfect recreation of Cluely's interface — then kept going. If you've used Cluely, you already know how to use Haggle. Same overlay, same workflow, same shortcuts. Except it's free for personal evaluation and non-commercial use, runs locally, supports any LLM, and has never breached a single user's data.
 
-> Looking for a **free personal-use Cluely alternative**? A **source-available Cluely clone**? You found it.
+> Looking for a **free personal-use Cluely alternative**? You found it.
 
 ---
 
@@ -93,7 +93,7 @@ Haggle started as a pixel-perfect recreation of Cluely's interface — then kept
 
 ## Why Haggle?
 
-While other tools act as simple API wrappers, Haggle is a complete, native intelligence system designed specifically for high-stakes meetings and interviews.
+While other tools act as simple API wrappers, Haggle is a complete, native conversation intelligence system designed for meetings, interviews, pitches, dates, and high-stakes conversations.
 
 - **Native Audio Capture (<500ms):** Built with Rust and Zero-Copy ABI transfers, bypassing generic web-audio limitations for ultra-low latency.
 - **Local Whisper STT (On-Device):** 100% on-device speech-to-text using optimized ONNX models (Moonshine-tiny, Moonshine-base, Whisper-large-v3-turbo, distil-large-v3). Uses hardware acceleration (CoreML/Metal GPU on Apple Silicon, DirectML on Windows, quantized int8 on CPU) with zero cloud fees or data exposure.
@@ -112,7 +112,7 @@ While other tools act as simple API wrappers, Haggle is a complete, native intel
 ## 3 things you should know before choosing an interview AI
 
 1. **Cluely** had a data breach in mid-2025 that exposed 83,000 users' personal info, transcripts, and screenshots — Haggle stores everything locally by default with limited anonymous telemetry and has never had a breach.
-2. **Final Round AI** costs $149/month and its taskbar icon is visible to proctoring software — Haggle is free for personal/non-commercial use, source-available, and has a battle-tested undetectable stealth mode.
+2. **Final Round AI** costs $149/month and its taskbar icon is visible to proctoring software — Haggle is free for personal/non-commercial use, runs locally, and has a battle-tested undetectable stealth mode.
 3. **LockedIn AI** charges $55–70/month and locks you into their cloud LLM with no local option — Haggle lets you use any model (GPT, Claude, Gemini, Llama) or go fully offline with Ollama.
 
 ---
@@ -194,7 +194,7 @@ The UI is intentionally familiar — if you've used Cluely, there's zero learnin
 
 Cluely's mid-2025 data breach exposed personal information, full interview transcripts, and screenshots of 83,000 users. Every word spoken during an interview was stored on their servers — and then leaked. They charge $20/month for this privilege.
 
-By default, Haggle stores everything on your local machine, with only limited anonymous telemetry (basic GA4 install tracking, zero personal data). Your transcripts, API keys, and screenshots never leave your machine when using your own keys. The codebase is source-available under the Haggle Personal Use Source License v1.0 and auditable. Zero breaches — that is the only acceptable standard for a tool that listens to your interviews.
+By default, Haggle stores everything on your local machine, with only limited anonymous telemetry (basic GA4 install tracking, zero personal data). Your transcripts, API keys, and screenshots never leave your machine when using your own keys. Zero breaches — that is the only acceptable standard for a tool that listens to your conversations.
 
 Unlike Cluely's rigid interface, Haggle also gives you complete control over the AI: **Custom Persona Modes** (Tech, Sales, Recruiting) to strictly format behavior, and **Reference Files** capabilities to upload PDFs so the AI knows exactly the context of the job or meeting before it starts.
 
@@ -327,16 +327,16 @@ Under the hood, Haggle API connects you to the absolute best models for the opti
 **Don't start the long way.** Skip the 20-minute manual setup. One Haggle subscription skips all of it — AI, transcription, and web search are ready immediately.
 
 <p align="center">
-  <a href="https://checkout.dodopayments.com/buy/pdt_0NbFixGmD8CSeawb5qvVl">
+  <a href="https://checkout.dodopayments.com/buy/pdt_0NlxMoqfnenWh9cR0BTSl">
     <img src="https://img.shields.io/badge/Standard_Plan-Subscribe_Now-94a3b8?style=for-the-badge&logo=fastapi&logoColor=white" />
   </a>
-  <a href="https://checkout.dodopayments.com/buy/pdt_0NcM6Aw0IWdspbsgUeCLA">
+  <a href="https://checkout.dodopayments.com/buy/pdt_0NmkWLLPJKXXtucK9WvVS">
     <img src="https://img.shields.io/badge/Pro_Plan-Subscribe_Now-8b5cf6?style=for-the-badge&logo=fastapi&logoColor=white" />
   </a>
-  <a href="https://checkout.dodopayments.com/buy/pdt_0NcM7JElX4Af6LNVFS1Yf">
+  <a href="https://checkout.dodopayments.com/buy/pdt_0NlxMU1pU1un3FHRdm36Y">
     <img src="https://img.shields.io/badge/Max_Plan-Subscribe_Now-6366f1?style=for-the-badge&logo=fastapi&logoColor=white" />
   </a>
-  <a href="https://checkout.dodopayments.com/buy/pdt_0NcM7rC2kAb69TFKsZnUU">
+  <a href="https://checkout.dodopayments.com/buy/pdt_0NlxMUBjhNhSr5fPnIHPy">
     <img src="https://img.shields.io/badge/Ultra_Plan-Subscribe_Now-fbbf24?style=for-the-badge&logo=fastapi&logoColor=white" />
   </a>
 </p>
@@ -346,12 +346,6 @@ Under the hood, Haggle API connects you to the absolute best models for the opti
 ## Haggle Pro
 
 While Haggle is **free for personal, educational, research, and non-commercial use**, we also offer a **Pro Edition** (available as **Lifetime or Yearly** subscriptions) designed specifically for power users and job seekers. Purchasing a Pro license gives you an edge in the job market, all while directly supporting the continued development of Haggle.
-
-### 🪙 Unlock Haggle Pro with $NAT Token
-
-We've launched the official **$NAT token** on Printr! Holders who maintain a specific balance of `$NAT` tokens in their connected wallet automatically unlock access to all **Haggle Pro** features.
-
-👉 **[Trade $NAT on Printr](https://app.printr.money/trade/0xba1e50273ec14ca52b3fa64a5054c39470c2835392c6ecd06876f5bccd597d7b)**
 
 ### Free vs Pro Feature Comparison
 
@@ -387,17 +381,17 @@ We've launched the official **$NAT token** on Printr! Holders who maintain a spe
 | **Priority Feature Access & Support**               |      ❌       |      ✅      |
 
 <p align="center">
-  <a href="https://checkout.dodopayments.com/buy/pdt_0NbHo6EnXlNPqNcZ14OTi">
+  <a href="https://checkout.dodopayments.com/buy/pdt_0NlxMUU4haRgZwQ2pYGMA">
     <img src="https://img.shields.io/badge/Lifetime_License-Unlock_Premium-facc15?style=for-the-badge&logo=fastapi&logoColor=black" />
   </a>
-  <a href="https://checkout.dodopayments.com/buy/pdt_0NcM4QBwy0CDcPV9CXaNP">
+  <a href="https://checkout.dodopayments.com/buy/pdt_0NlxMUOm31CNCUIf28Zr1">
     <img src="https://img.shields.io/badge/Yearly_License-Unlock_Premium-black?style=for-the-badge&logo=fastapi&logoColor=white" />
   </a>
 </p>
 
-### What's New in v2.8.0 (Latest Release)
+### What's New in v0.1.1 (Latest Release)
 
-Version 2.8.0 introduces the stateful "Intelligence OS" control plane, Hindsight long-term memory, deterministic answer humanization, sandboxed local code execution, and low-latency regional STT relay migration:
+Version 0.1.1 introduces the stateful "Intelligence OS" control plane, Hindsight long-term memory, deterministic answer humanization, sandboxed local code execution, and low-latency regional STT relay migration:
 
 - **Stateful "Intelligence OS"**: Transitioned to a stateful control plane with mode-aware priors (Sales, Technical, Lecture) that automatically route queries and filter context based on your active task.
 - **Hindsight Long-Term Memory (LTM)**: Integrates a secure local sidecar vector database that indexes past meetings, custom profiles, and documents, retrieving relevant semantic matches dynamically.
@@ -408,7 +402,7 @@ Version 2.8.0 introduces the stateful "Intelligence OS" control plane, Hindsight
 
 ## Table of Contents
 
-- [The free personal-use Cluely clone](#the-free-for-personal-use-source-available-cluely-clone)
+- [The free personal-use Cluely alternative](#the-free-for-personal-use-desktop-cluely-alternative)
 - [What Users Are Saying](#what-users-are-saying)
 - [Why Haggle?](#why-haggle)
 - [3 things to know](#3-things-you-should-know-before-choosing-an-interview-ai)
@@ -417,9 +411,9 @@ Version 2.8.0 introduces the stateful "Intelligence OS" control plane, Hindsight
 - [Why Haggle wins](#why-haggle-wins)
 - [AI Coding Assistant](#free-ai-coding-interview-assistant-undetectable-on-leetcode-hackerrank--coderpad)
 - [Haggle Pro](#haggle-pro)
-- [What's New in v2.8.0](#whats-new-in-v280-latest-release)
+- [What's New in v0.1.1](#whats-new-in-v011-latest-release)
 - [Privacy & Security](#privacy--security-core-design-principle)
-- [Installation](#installation-developers--contributors)
+- [Download & Installation](#download--installation)
 - [AI Providers](#ai-providers)
 - [Key Features](#key-features)
 - [Meeting Intelligence Dashboard](#meeting-intelligence-dashboard)
@@ -460,7 +454,7 @@ All while remaining **invisible, fast, and privacy-first**.
 
 ## Privacy & Security (Core Design Principle)
 
-- Source-available under the Haggle Personal Use Source License v1.0
+- Proprietary, privacy-first desktop architecture
 - Bring Your Own Keys (BYOK)
 - Local AI option (Ollama)
 - All data stored locally
@@ -476,33 +470,40 @@ You explicitly control:
 
 ---
 
-## Installation (Developers & Contributors)
+## Download & Installation
+
+Official desktop binaries for macOS (Apple Silicon & Intel) and Windows (x64) are available from the official website and public releases:
+
+- **Official Website**: [https://haggle.algeris.com](https://haggle.algeris.com)
+- **Releases & Downloads**: [https://github.com/Algeris/haggle-releases/releases](https://github.com/Algeris/haggle-releases/releases)
+
+### macOS Installation (Apple Silicon & Intel)
+
+1. Download the `.dmg` or `.zip` installer from [Releases](https://github.com/Algeris/haggle-releases/releases).
+2. Open the `.dmg` and drag **Haggle** to your `/Applications` folder.
 
 > [!NOTE]
-> **macOS Users (Both Apple Silicon & Intel Macs supported):**
+> **macOS Gatekeeper Notes:**
 >
 > 1.  **"Unidentified Developer"**: If you see this, Right-click the app > Select **Open** > Click **Open**.
 > 2.  **"App is Damaged"**: If you see this, run the command in Terminal based on your download:
 >
 >     **For .zip downloads:**
->
 >     ```bash
 >     xattr -cr /Applications/Haggle.app
 >     ```
 >
 >     **For .dmg downloads:**
->     1. Open Terminal and run:
->        ```bash
->        xattr -cr ~/Downloads/Haggle-2.0.2-arm64.dmg # Or your specific filename
->        ```
->     2. Install the haggle.dmg
->     3. Open Terminal and run: `xattr -cr /Applications/Haggle.app`
+>     ```bash
+>     xattr -cr /Applications/Haggle.app
+>     ```
 
-### Prerequisites
+### Windows Installation (x64)
 
-- Node.js (v20+ recommended)
-- Git
-- Rust (required for native audio capture)
+1. Download `Haggle-Setup-x64.exe` from [Releases](https://github.com/Algeris/haggle-releases/releases).
+2. Run the installer and launch Haggle from your Start Menu or Desktop.
+
+---
 
 ### AI Credentials & Speech Providers
 
@@ -563,75 +564,7 @@ Setup Summary:
 
 ---
 
-## Public Releases & Downloads
- 
-Official desktop binaries, installers, updates, and release documentation are published at the public releases repository:
-
-```bash
-# Clone the public releases repository (for documentation, releases, and scripts)
-git clone https://github.com/Algeris/haggle-releases.git
-```
-
-Desktop installers for macOS (Apple Silicon & Intel) and Windows (x64) can be downloaded directly from [GitHub Releases](https://github.com/Algeris/haggle-releases/releases).
-
-### Install Dependencies
-
-```bash
-npm install
-```
-
-### Build Native Audio Module (Rust)
-
-```bash
-npm run build:native
-```
-
-### Environment Variables
-
-Create a `.env` file:
-
-```env
-# Cloud AI
-GEMINI_API_KEY=your_key
-GROQ_API_KEY=your_key
-OPENAI_API_KEY=your_key
-CLAUDE_API_KEY=your_key
-GOOGLE_APPLICATION_CREDENTIALS=/absolute/path/to/service-account.json
-
-# Speech Providers (Optional - only one needed)
-DEEPGRAM_API_KEY=your_key
-ELEVENLABS_API_KEY=your_key
-AZURE_SPEECH_KEY=your_key
-AZURE_SPEECH_REGION=eastus
-IBM_WATSON_API_KEY=your_key
-IBM_WATSON_REGION=us-south
-
-# Local AI (Ollama)
-USE_OLLAMA=true
-OLLAMA_MODEL=llama3.2
-OLLAMA_URL=http://localhost:11434
-
-# Default Model Configuration
-DEFAULT_MODEL=gemini-3.1-flash-lite-preview
-```
-
-### Run (Development)
-
-```bash
-npm start
-```
-
-### Build (Production)
-
-```bash
-npm run dist
-```
-
-This runs: Vite build → TypeScript compile → native module build → electron-builder
-
----
-
-### AI Providers
+## AI Providers
 
 - **Custom (BYO Endpoint):** Paste any cURL command to use OpenRouter, DeepSeek, or private endpoints.
 - **Ollama (Local):** Zero-setup detection of local models (Llama 3, Mistral, Gemma).
@@ -920,7 +853,7 @@ Commercial license requests: contact@algeris.com · https://haggle.algeris.com/
 
 #### Is Haggle really free?
 
-Yes for personal, educational, research, and non-commercial use. Haggle is source-available under a personal-use source license. You only pay for what you use by bringing your own API keys (Gemini, OpenAI, Anthropic, etc.), or use it **100% free** by connecting to a local Ollama instance. Commercial use requires a separate written license.
+Yes for personal, educational, research, and non-commercial evaluation. You only pay for what you use by bringing your own API keys (Gemini, OpenAI, Anthropic, etc.), or use it **100% free** by connecting to a local Ollama instance. Commercial use or team deployment requires an active Haggle Pro license.
 
 #### Does Haggle work with Zoom, Teams, and Google Meet?
 
@@ -940,7 +873,7 @@ Simply install **Ollama**, run a model (e.g., `ollama run llama3`), and Haggle w
 
 #### How does Haggle compare to Cluely?
 
-Cluely is a $20/month cloud-based tool that stores all data on their servers. In mid-2025, Cluely suffered a data breach that exposed personal information, transcripts, and screenshots of 83,000 users. Haggle is free for personal/non-commercial use, source-available, and stores everything locally. It supports any LLM (not just one vendor), offers local AI via Ollama, and has battle-tested stealth mode. Haggle has never had a data breach because there is no server to breach.
+Cluely is a $20/month cloud-based tool that stores all data on their servers. In mid-2025, Cluely suffered a data breach that exposed personal information, transcripts, and screenshots of 83,000 users. Haggle is free for personal evaluation, runs locally, and stores everything on your device. It supports any LLM (not just one vendor), offers local AI via Ollama, and has battle-tested stealth mode. Haggle has never had a data breach because there is no server to breach.
 
 #### Is stealth mode actually undetectable?
 
@@ -974,7 +907,7 @@ Yes. Haggle does everything Interview Coder does — screenshot OCR, real-time c
 
 ## Alternatives Haggle Replaces
 
-Haggle is a free-for-personal-use, source-available alternative to:
+Haggle is a free-for-personal-use, privacy-first alternative to:
 
 | Tool                | What Haggle replaces                                                              |
 | :------------------ | :---------------------------------------------------------------------------------- |
@@ -983,17 +916,16 @@ Haggle is a free-for-personal-use, source-available alternative to:
 | **LockedIn AI**     | Real-time interview assistant — without cloud lock-in or $70/mo                     |
 | **Interview Coder** | AI coding interview helper — with full meeting context, not just coding rounds      |
 | **Parakeet AI**     | Live meeting assistant — with local RAG memory and full history dashboard           |
-| **Metaview**        | Automated meeting notes — source-available and locally stored                       |
+| **Metaview**        | Automated meeting notes — privacy-first and locally stored                          |
 | **Otter.ai**        | Transcription and meeting summaries — without cloud storage                         |
 | **Fireflies.ai**    | Meeting recorder and AI notetaker — fully local storage                             |
 | **Teal**            | Job search and interview assistant — fully local and free                           |
 
 ---
 
-`ai-assistant` · `meeting-notes` · `interview-helper` · `cluely-alternative` · `cluely` · `lockhead-ai` · `lockheed-ai` · `parakeet-ai` · `interview-coder` · `final-round-ai` · `metaview-alternative` · `otter-ai-alternative` · `fireflies-alternative` · `local-ai` · `ollama` · `electron` · `privacy-first` · `source-available` · `real-time-transcription` · `interview-copilot` · `ai-meeting-assistant` · `moltbot`
+`ai-assistant` · `meeting-notes` · `interview-helper` · `cluely-alternative` · `cluely` · `lockhead-ai` · `lockheed-ai` · `parakeet-ai` · `interview-coder` · `final-round-ai` · `metaview-alternative` · `otter-ai-alternative` · `fireflies-alternative` · `local-ai` · `ollama` · `electron` · `privacy-first` · `real-time-transcription` · `interview-copilot` · `ai-meeting-assistant` · `moltbot`
 
 ---
-
 
 ## Star History
 
@@ -1005,8 +937,8 @@ Haggle is a free-for-personal-use, source-available alternative to:
  </picture>
 </a>
 
-<!-- SEO: free ai interview copilot · cluely clone · cluely alternative · source-available cluely · cluely free version · cluely github · interview coder alternative · interview coder free · interview coder source-available · free interview coder · leetcode ai assistant · hackerrank ai helper · coding interview ai · undetectable coding interview ai · ai for leetcode · ai coding interview assistant · final round ai alternative · lockedin ai alternative · parakeet ai alternative · free interview cheating tool · ai interview assistant · real-time interview ai · undetectable interview ai · best ai interview tool 2025 2026 · source-available interview ai · stealth interview ai · interview cheating software · ai copilot interview · free interview ai · source-available cluely clone · leetcode cheating tool · hackerrank cheat · coding interview cheat sheet ai -->
+<!-- SEO: free ai interview copilot · cluely clone · cluely alternative · cluely free version · cluely github · interview coder alternative · interview coder free · interview coder offline · free interview coder · leetcode ai assistant · hackerrank ai helper · coding interview ai · undetectable coding interview ai · ai for leetcode · ai coding interview assistant · final round ai alternative · lockedin ai alternative · parakeet ai alternative · free interview cheating tool · ai interview assistant · real-time interview ai · undetectable interview ai · best ai interview tool 2025 2026 · local interview ai · stealth interview ai · interview cheating software · ai copilot interview · free interview ai · desktop cluely clone · leetcode cheating tool · hackerrank cheat · coding interview cheat sheet ai -->
 
 <sub>
-free-ai-interview-copilot · source-available-cluely · cluely-alternative · cluely-clone · interview-coder-alternative · final-round-ai-alternative · lockedin-ai-alternative · ai-interview-assistant · real-time-interview-ai · undetectable-interview-ai · stealth-mode · local-ai · ollama · byok · rag · electron · rust · privacy-first · meeting-assistant · interview-helper · source-available-interview-ai
+free-ai-interview-copilot · cluely-free · cluely-alternative · cluely-clone · interview-coder-alternative · final-round-ai-alternative · lockedin-ai-alternative · ai-interview-assistant · real-time-interview-ai · undetectable-interview-ai · stealth-mode · local-ai · ollama · byok · rag · electron · rust · privacy-first · meeting-assistant · interview-helper · local-interview-ai
 </sub>

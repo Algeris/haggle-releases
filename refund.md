@@ -1,6 +1,6 @@
 # Refund Policy
 
-_Last updated: August 20th 2026_
+_Last updated: September 5th 2026_
 
 This is the full refund policy for **Haggle Pro** and the **Haggle API** service. We've tried to write it like a person, not a lawyer — please give it a read before purchasing.
 
@@ -110,5 +110,5 @@ We aim to reply within **24–72 hours on weekdays**.
 - **Website**: [https://haggle.algeris.com](https://haggle.algeris.com)
 - **Terms of Service**: [https://haggle.algeris.com/terms](https://haggle.algeris.com/terms)
 - **Privacy Policy**: [https://haggle.algeris.com/privacy](https://haggle.algeris.com/privacy)
-- **Refund Policy Reference**: [https://github.com/Algeris/haggle-releases/blob/main/refunds.md](https://github.com/Algeris/haggle-releases/blob/main/refunds.md)
+- **Refund Policy Reference**: [https://github.com/Algeris/haggle-releases/blob/main/refund.md](https://github.com/Algeris/haggle-releases/blob/main/refund.md)
 - **Releases**: [https://github.com/Algeris/haggle-releases/releases](https://github.com/Algeris/haggle-releases/releases)

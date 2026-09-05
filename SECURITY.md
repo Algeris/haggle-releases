@@ -1,6 +1,6 @@
 # Security Policy
 
-_Last updated: August 20th 2026_
+_Last updated: September 5th 2026_
 
 We take the security of Haggle seriously and we genuinely appreciate reports from researchers, users, and the community. This document describes how to report a vulnerability, what we'll do with it, and the rules of engagement.
 
@@ -129,7 +129,7 @@ When a confirmed issue is fixed, we publish a **GitHub Security Advisory** at:
 - **Website**: [https://haggle.algeris.com](https://haggle.algeris.com)
 - **Terms of Service**: [https://haggle.algeris.com/terms](https://haggle.algeris.com/terms)
 - **Privacy Policy**: [https://haggle.algeris.com/privacy](https://haggle.algeris.com/privacy)
-- **Refund Policy**: [https://github.com/Algeris/haggle-releases/blob/main/refunds.md](https://github.com/Algeris/haggle-releases/blob/main/refunds.md)
+- **Refund Policy**: [https://github.com/Algeris/haggle-releases/blob/main/refund.md](https://github.com/Algeris/haggle-releases/blob/main/refund.md)
 - **Releases**: [https://github.com/Algeris/haggle-releases/releases](https://github.com/Algeris/haggle-releases/releases)
 - **Email:** `contact@algeris.com` / `security@algeris.com`
 

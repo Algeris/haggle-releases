@@ -1,6 +1,6 @@
 # Privacy Policy
 
-_Last updated: August 20th 2026_
+_Last updated: September 5th 2026_
 
 This policy describes how **Haggle** — the desktop application, the **Haggle Pro** licensed features, and the **Haggle API** managed service — handles your data. We've tried to write it like a person, not a lawyer.
 
@@ -222,6 +222,6 @@ We may update this policy from time to time. Material changes will be announced 
 - **Website**: [https://haggle.algeris.com](https://haggle.algeris.com)
 - **Terms of Service**: [https://haggle.algeris.com/terms](https://haggle.algeris.com/terms)
 - **Privacy Policy**: [https://haggle.algeris.com/privacy](https://haggle.algeris.com/privacy)
-- **Refund Policy**: [https://github.com/Algeris/haggle-releases/blob/main/refunds.md](https://github.com/Algeris/haggle-releases/blob/main/refunds.md)
+- **Refund Policy**: [https://github.com/Algeris/haggle-releases/blob/main/refund.md](https://github.com/Algeris/haggle-releases/blob/main/refund.md)
 - **Releases**: [https://github.com/Algeris/haggle-releases/releases](https://github.com/Algeris/haggle-releases/releases)
 - **Email:** `contact@algeris.com` / `legal@algeris.com`

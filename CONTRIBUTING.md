@@ -1,6 +1,6 @@
 # Contributing to Haggle
 
-*Last updated: August 20, 2026*
+*Last updated: September 5th 2026*
 
 First off, thank you for considering contributing to Haggle!
 
@@ -49,7 +49,7 @@ Before creating a bug report, please check existing open issues to avoid duplica
 Enhancement suggestions and feature requests can be submitted via [GitHub Issues](https://github.com/Algeris/haggle-releases/issues). When submitting a feature request, please include:
 
 - A concise title and clear description of the proposed feature.
-- The use case and how it enhances live meeting negotiation or conversational intelligence.
+- The use case and how it enhances live conversation intelligence across meetings, interviews, pitches, or everyday interactions.
 - Any mockups, proposed workflow steps, or architectural considerations.
 
 ### Community & Feedback
@@ -67,6 +67,6 @@ Official desktop binaries and update installers for macOS (Apple Silicon / Intel
 
 - **Terms of Service**: [https://haggle.algeris.com/terms](https://haggle.algeris.com/terms)
 - **Privacy Policy**: [https://haggle.algeris.com/privacy](https://haggle.algeris.com/privacy)
-- **Refund Policy**: [https://github.com/Algeris/haggle-releases/blob/main/refunds.md](https://github.com/Algeris/haggle-releases/blob/main/refunds.md)
+- **Refund Policy**: [https://github.com/Algeris/haggle-releases/blob/main/refund.md](https://github.com/Algeris/haggle-releases/blob/main/refund.md)
 
 Thank you for helping make Haggle better!
