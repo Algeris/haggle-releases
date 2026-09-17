@@ -1,7 +1,11 @@
 <div align="center">
-  <img src="assets/icon.png" width="150" alt="Haggle Assistant Logo">
+  <br/>
+  <img src="assets/icon.png" width="136" style="border-radius: 30px; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.5), 0 0 30px rgba(255, 255, 255, 0.1);" alt="Haggle Assistant Logo">
+  <br/><br/>
 
 # Haggle — Real-Time Conversation Intelligence & Meeting Assistant
+
+### *Next-Gen Liquid Glass Desktop Interface · Real-Time Audio AI · 100% Local & Private*
 
 **The best free alternative to Cluely, Final Round AI, LockedIn AI, and Interview Coder.**
 <br/>
@@ -35,36 +39,47 @@
 
 <br/>
 
-[![License](https://img.shields.io/badge/License-Proprietary%20%2F%20Personal%20Evaluation-blue?style=flat-square)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Windows-blueviolet?style=flat-square)](https://github.com/algeris/haggle-releases)
-[![Downloads](https://img.shields.io/github/downloads/algeris/haggle-releases/total?style=flat-square&color=success)](https://github.com/algeris/haggle-releases)
-![Repo Views](https://img.shields.io/badge/Views-1.2M-orange?style=flat-square)
-[![Stars](https://img.shields.io/github/stars/algeris/haggle-releases?style=flat-square&color=gold)](https://github.com/algeris/haggle-releases)
-![Status](https://img.shields.io/badge/Status-active-success?style=flat-square)
-[![Telegram Chat](https://img.shields.io/badge/Telegram-Chat-229ED9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ainegotiatorbot)
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Proprietary%20%2F%20Personal%20Evaluation-007AFF?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/algeris/haggle-releases"><img src="https://img.shields.io/badge/Platform-macOS%20%7C%20Windows-5856D6?style=flat-square" alt="Platform" /></a>
+  <a href="https://github.com/algeris/haggle-releases"><img src="https://img.shields.io/github/downloads/algeris/haggle-releases/total?style=flat-square&color=34C759" alt="Downloads" /></a>
+  <img src="https://img.shields.io/badge/Views-1.2M-FF9500?style=flat-square" alt="Views" />
+  <a href="https://github.com/algeris/haggle-releases"><img src="https://img.shields.io/github/stars/algeris/haggle-releases?style=flat-square&color=FFCC00" alt="Stars" /></a>
+  <img src="https://img.shields.io/badge/Status-active-34C759?style=flat-square" alt="Status" />
+  <a href="https://t.me/ainegotiatorbot"><img src="https://img.shields.io/badge/Telegram-Chat-007AFF?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+</p>
 
-> **Competitors charge $20–$149/month, store your data on their servers, and one already breached 83,000 users.** Haggle costs $0, runs locally, and has never had a data breach. Your keys, your models, your machine.
+> 🛡️ **Competitors charge $20–$149/month, store your data on their servers, and one already breached 83,000 users.** Haggle costs $0, runs locally, and has never had a data breach. Your keys, your models, your machine.
+
+<br/>
 
 <p align="center">
   <a href="https://haggle.algeris.com">
-    <img src="https://img.shields.io/badge/Visit%20Website-22C55E?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visit%20Website-34C759?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
+  &nbsp;
   <a href="https://github.com/Algeris/haggle-releases/releases/latest">
     <img src="https://img.shields.io/badge/Download-macOS-007AFF?style=for-the-badge&logo=apple&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://github.com/Algeris/haggle-releases/releases/latest">
     <img src="https://img.shields.io/badge/Download-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
   </a>
 </p>
 
-<small>Requires macOS 12+ (Apple Silicon & Intel) or Windows 10/11</small>
+<p align="center">
+  <small style="opacity: 0.7;">Requires macOS 12+ (Apple Silicon & Intel) or Windows 10/11</small>
+</p>
 
 <br/>
 
-**<span style="color: #ef4444">👥 9,000+ Users</span>** &nbsp;·&nbsp; **<span style="color: #f97316">🔥 700+ DAU</span>** &nbsp;·&nbsp; **<span style="color: #22c55e">💸 $0 vs $149/mo rivals</span>** &nbsp;·&nbsp; **<span style="color: #3b82f6">⚡ <500ms latency</span>** &nbsp;·&nbsp; **<span style="color: #a855f7">🛡️ 0 data breaches</span>**
+<p align="center">
+  <b><span style="color: #FF453A">👥 9,000+ Users</span></b> &nbsp;·&nbsp;
+  <b><span style="color: #FF9F0A">🔥 700+ DAU</span></b> &nbsp;·&nbsp;
+  <b><span style="color: #30D158">💸 $0 vs $149/mo rivals</span></b> &nbsp;·&nbsp;
+  <b><span style="color: #0A84FF">⚡ &lt;500ms latency</span></b> &nbsp;·&nbsp;
+  <b><span style="color: #BF5AF2">🛡️ 0 data breaches</span></b>
+</p>
 
 </div>
 
