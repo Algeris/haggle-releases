@@ -74,8 +74,8 @@
 <br/>
 
 <p align="center">
-  <b><span style="color: #FF453A">👥 9,000+ Users</span></b> &nbsp;·&nbsp;
-  <b><span style="color: #FF9F0A">🔥 700+ DAU</span></b> &nbsp;·&nbsp;
+  <b><span style="color: #FF453A">👥 X+ Users</span></b> &nbsp;·&nbsp;
+  <b><span style="color: #FF9F0A">🔥 X+ DAU</span></b> &nbsp;·&nbsp;
   <b><span style="color: #30D158">💸 $0 vs $149/mo rivals</span></b> &nbsp;·&nbsp;
   <b><span style="color: #0A84FF">⚡ &lt;500ms latency</span></b> &nbsp;·&nbsp;
   <b><span style="color: #BF5AF2">🛡️ 0 data breaches</span></b>
