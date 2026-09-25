@@ -1,6 +1,16 @@
 # Changelog
 
-*Last updated: September 5th, 2026*
+*Last updated: September 24th, 2026*
+
+## [v0.1.2] - 2026-09-24
+
+- **Call Center Built-in Mode (9th Mode)**: Added dedicated Call Center persona designed for customer support agents and helpdesks. Includes step-by-step diagnostic workflows, empathetic de-escalation, product runbook grounding, and structured escalation protocols (`Customer Issue & Intent`, `Diagnostic Steps Attempted`, `Root Cause & Resolution`, `Escalation & Follow-up Details`).
+- **Hands-Free Auto Answer Engine (Beta)**: Ambient background conversation evaluator that detects actionable interviewer questions in real time and triggers suggestions automatically without manual hotkeys. Features conversational backchannel suppression (*"yeah"*, *"okay"*, *"sounds good"*, etc.), minimum word length gating, STT confidence checks (0.6 threshold), cooldown management, global shortcut `CommandOrControl+Shift+A`, and top-pill status indicator.
+- **Apple Speech On-Device STT (macOS 26+)**: Added native speech recognition using Apple's modern Speech framework (`SpeechAnalyzer` / `SpeechTranscriber`). Runs 100% on-device with zero cloud latency and zero API fees on macOS, while failing safe without errors on Windows and Linux to preserve cross-platform parity.
+- **NVIDIA NIM & Riva Streaming STT Provider**: Native streaming and buffered speech-to-text supporting NVIDIA Cloud Functions (Parakeet-CTC 1.1B, Parakeet-TDT, Canary-1B) and self-hosted Riva microservice endpoints with VAD boundary detection, RMS silence gating, and automatic 16kHz resampling.
+- **CJK Meeting PDF Export Engine**: Added high-fidelity PDF meeting summary and transcript export with native CJK (Chinese, Japanese, Korean) ideographic line-breaking (`word-break: break-word; line-break: strict;`), clean typographic styling, offscreen rendering, and in-app export button in meeting details.
+- **Cloudflare Edge Global Network (`edge.algeris.com`)**: Cut over production OCR (`/v1/ocr`), streaming chat (`/v1/chat`), and speech-to-text relay (`/v1/stt/relay`) to Cloudflare Workers Anycast edge. Features dual-path Nova-3 STT ladder (`@cf/deepgram/nova-3` in-isolate binding + AI Gateway provider-native WebSocket + direct Deepgram + standby OCI relay), sub-150ms TTFT chat with automated Groq failover, and zero-egress multimodal vision OCR.
+- **Autonomous Agent Runtime (`haggle-oracle`)**: Outbound-only private VPC tunnel execution on Oracle VM with BullMQ persistent queue, 3-tier policy safety boundaries, and a 5-tier resilient model fallback cascade (Anthropic Claude $\rightarrow$ Google Gemini $\rightarrow$ Hugging Face $\rightarrow$ Groq $\rightarrow$ Safe Simulation) with timing-safe HMAC-SHA256 callback delivery to edge KV.
 
 ## [v0.1.1] - 2026-08-20
 

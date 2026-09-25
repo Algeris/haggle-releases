@@ -1,11 +1,7 @@
 <div align="center">
-  <br/>
-  <img src="assets/icon.png" width="136" style="border-radius: 30px; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.5), 0 0 30px rgba(255, 255, 255, 0.1);" alt="Haggle Assistant Logo">
-  <br/><br/>
+  <img src="assets/icon.png" width="150" alt="Haggle Assistant Logo">
 
 # Haggle — Real-Time Conversation Intelligence & Meeting Assistant
-
-### *Next-Gen Liquid Glass Desktop Interface · Real-Time Audio AI · 100% Local & Private*
 
 **The best free alternative to Cluely, Final Round AI, LockedIn AI, and Interview Coder.**
 <br/>
@@ -39,43 +35,38 @@
 
 <br/>
 
-<p align="center">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Proprietary%20%2F%20Personal%20Evaluation-007AFF?style=flat-square" alt="License" /></a>
-  <a href="https://github.com/algeris/haggle-releases"><img src="https://img.shields.io/badge/Platform-macOS%20%7C%20Windows-5856D6?style=flat-square" alt="Platform" /></a>
-  <a href="https://github.com/algeris/haggle-releases"><img src="https://img.shields.io/github/downloads/algeris/haggle-releases/total?style=flat-square&color=34C759" alt="Downloads" /></a>
-  <img src="https://img.shields.io/badge/Views-1.2M-FF9500?style=flat-square" alt="Views" />
-  <a href="https://github.com/algeris/haggle-releases"><img src="https://img.shields.io/github/stars/algeris/haggle-releases?style=flat-square&color=FFCC00" alt="Stars" /></a>
-  <img src="https://img.shields.io/badge/Status-active-34C759?style=flat-square" alt="Status" />
-  <a href="https://t.me/ainegotiatorbot"><img src="https://img.shields.io/badge/Telegram-Chat-007AFF?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
-</p>
+[![License](https://img.shields.io/badge/License-Proprietary%20%2F%20Personal%20Evaluation-blue?style=flat-square)](LICENSE)
+[![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Windows-blueviolet?style=flat-square)](https://github.com/algeris/haggle-releases)
+[![Downloads](https://img.shields.io/github/downloads/algeris/haggle-releases/total?style=flat-square&color=success)](https://github.com/algeris/haggle-releases)
+![Repo Views](https://img.shields.io/badge/Views-1.2M-orange?style=flat-square)
+[![Stars](https://img.shields.io/github/stars/algeris/haggle-releases?style=flat-square&color=gold)](https://github.com/algeris/haggle-releases)
+![Status](https://img.shields.io/badge/Status-active-success?style=flat-square)
+[![Telegram Chat](https://img.shields.io/badge/Telegram-Chat-229ED9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ainegotiatorbot)
 
-> 🛡️ **Competitors charge $20–$149/month, store your data on their servers, and one already breached 83,000 users.** Haggle costs $0, runs locally, and has never had a data breach. Your keys, your models, your machine.
-
-<br/>
+> **Competitors charge $20–$149/month, store your data on their servers, and one already breached 83,000 users.** Haggle costs $0, runs locally, and has never had a data breach. Your keys, your models, your machine.
 
 <p align="center">
   <a href="https://haggle.algeris.com">
-    <img src="https://img.shields.io/badge/Visit%20Website-34C759?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visit%20Website-22C55E?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  &nbsp;
+</p>
+
+<p align="center">
   <a href="https://github.com/Algeris/haggle-releases/releases/latest">
     <img src="https://img.shields.io/badge/Download-macOS-007AFF?style=for-the-badge&logo=apple&logoColor=white" />
   </a>
-  &nbsp;
   <a href="https://github.com/Algeris/haggle-releases/releases/latest">
     <img src="https://img.shields.io/badge/Download-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-  <small style="opacity: 0.7;">Requires macOS 12+ (Apple Silicon & Intel) or Windows 10/11</small>
-</p>
+<small>Requires macOS 12+ (Apple Silicon & Intel) or Windows 10/11</small>
 
 <br/>
 
 <p align="center">
-  <b><span style="color: #FF453A">👥 X+ Users</span></b> &nbsp;·&nbsp;
-  <b><span style="color: #FF9F0A">🔥 X+ DAU</span></b> &nbsp;·&nbsp;
+  <b><span style="color: #FF453A">👥 9,000+ Users</span></b> &nbsp;·&nbsp;
+  <b><span style="color: #FF9F0A">🔥 700+ DAU</span></b> &nbsp;·&nbsp;
   <b><span style="color: #30D158">💸 $0 vs $149/mo rivals</span></b> &nbsp;·&nbsp;
   <b><span style="color: #0A84FF">⚡ &lt;500ms latency</span></b> &nbsp;·&nbsp;
   <b><span style="color: #BF5AF2">🛡️ 0 data breaches</span></b>
@@ -114,12 +105,14 @@ While other tools act as simple API wrappers, Haggle is a complete, native conve
 - **Local Whisper STT (On-Device):** 100% on-device speech-to-text using optimized ONNX models (Moonshine-tiny, Moonshine-base, Whisper-large-v3-turbo, distil-large-v3). Uses hardware acceleration (CoreML/Metal GPU on Apple Silicon, DirectML on Windows, quantized int8 on CPU) with zero cloud fees or data exposure.
 - **Dual-Channel Intelligence:** Distinct pipelines for system audio (what they say) and your microphone (what you dictate) ensuring perfect transcription without room noise.
 - **Battle-Tested Stealth Mode:** Completely undetectable. Hides from the dock, disables popups, and disguises the process during screen sharing.
-- **Modes Manager (7 Personas):** Toggle between 7 tailored personas (General, Technical Interview, Looking for Work, Sales, Recruiting, Team Meet, and Lecture) with custom system prompts and dynamic meeting-note templates.
+- **Modes Manager (9 Personas):** Toggle between 9 tailored personas (General, Technical Interview, Looking for Work, Sales, Recruiting, Team Meet, Lecture, Seminar, and Call Center) with custom system prompts, diagnostic workflows, and dynamic meeting-note templates.
+- **Hands-Free Auto Answer Engine (Beta):** Ambient conversation evaluator that listens continuously, detects actionable interviewer questions, and triggers AI answers automatically without manual hotkeys.
+- **Local & Streaming STT Diversity:** Transcribe with 100% on-device Whisper (ONNX), native Apple Speech (macOS 26+ on-device, zero latency), NVIDIA NIM & Riva streaming STT, or leading cloud providers.
 - **Custom Context & Notes:** A dedicated free-form notes area to paste instructions, crib sheets, or credentials (up to 8,000 characters), automatically injected into real-time LLM prompts.
 - **Rolling Context:** We don't just transcribe; we maintain a "memory window" of the conversation for smarter answers.
 - **Local RAG Memory:** We embed your meetings locally using SQLite vector search so you can ask, "What did John say about the API last week?"
 - **Reference Files:** Deeply integrate PDFs, DOCX, and TXT files as real-time context.
-- **Rich Dashboard:** A full UI to manage, search, and export your history—not just a floating window.
+- **Rich Dashboard & CJK PDF Export:** A full UI to manage, search, and export your history with one-click high-fidelity PDF export featuring native CJK ideographic line-breaking.
 - **Fully Offline Capable:** Don't trust the cloud? Run Haggle 100% offline using local Ollama models and local Whisper STT.
 
 ---
@@ -195,6 +188,10 @@ This demo shows **a complete live meeting scenario**:
 | **Sandboxed Code Verification** | ✅ Yes                  | ❌                   | ❌         | ❌               | ❌                     |
 | **Hindsight LTM Vector DB** | ✅ Yes                    | ❌                   | ❌         | ❌               | ❌                     |
 | **Regional STT Relay**    | ✅ Yes                     | ❌                   | ❌         | ❌               | ❌                     |
+| **Hands-Free Auto Answer**| ✅ Yes (Beta)              | ❌                   | ❌         | ❌               | ❌                     |
+| **Apple Speech (macOS 26+)**| ✅ Yes (On-Device)       | ❌                   | ❌         | ❌               | ❌                     |
+| **NVIDIA NIM & Riva STT** | ✅ Yes                     | ❌                   | ❌         | ❌               | ❌                     |
+| **CJK PDF Meeting Export**| ✅ Yes                     | ❌                   | ❌         | ❌               | ❌                     |
 | **Data breach history**   | ✅ None                    | ❌ 83k users exposed | ✅ None    | ✅ None          | ✅ None                |
 
 > **Legend:** ✅ Full support · ⚠️ Partial or limited · ❌ Not available
@@ -404,7 +401,19 @@ While Haggle is **free for personal, educational, research, and non-commercial u
   </a>
 </p>
 
-### What's New in v0.1.1 (Latest Release)
+### What's New in v0.1.2 (Latest Release)
+
+Version 0.1.2 introduces Call Center built-in mode (9th persona), hands-free Auto Answer engine, native Apple Speech on-device recognition, NVIDIA NIM & Riva streaming speech provider, and native CJK PDF meeting export:
+
+- **Call Center Built-in Mode (9th Persona)**: Dedicated customer support and IT helpdesk mode featuring structured diagnostic workflows, empathetic de-escalation, product runbook grounding, and structured escalation protocols (`Customer Issue & Intent`, `Diagnostic Steps Attempted`, `Root Cause & Resolution`, `Escalation & Follow-up Details`).
+- **Hands-Free Auto Answer Engine (Beta)**: Real-time ambient background evaluator that listens continuously to the interviewer, screens for actionable questions, suppresses conversational backchannels (*"yeah"*, *"okay"*, *"sounds good"*), filters noise, and triggers answers hands-free (toggle via `CommandOrControl+Shift+A` or the top pill).
+- **Apple Speech On-Device STT (macOS 26+)**: Native, 100% on-device speech-to-text using Apple's modern Speech framework (`SpeechAnalyzer` / `SpeechTranscriber`). Zero cloud latency, zero external API fees, and fully fail-safe on Windows/Linux to maintain cross-platform parity.
+- **NVIDIA NIM & Riva Streaming STT Provider**: Native streaming STT supporting NVIDIA Cloud Functions (Parakeet-CTC 1.1B, Parakeet-TDT, Canary-1B) and self-hosted Riva microservice endpoints with VAD boundary detection, RMS silence energy gating, and automatic 16kHz resampling.
+- **CJK Meeting PDF Export Engine**: Export meeting summaries, key takeaways, and transcripts directly to formatted PDF documents with native ideographic CJK (Chinese, Japanese, Korean) line-breaking (`word-break: break-word; line-break: strict;`), clean pagination, and print-ready typography.
+- **Cloudflare Edge Global Network (`edge.algeris.com`)**: Cut over production OCR (`/v1/ocr`), streaming chat (`/v1/chat`), and speech-to-text relay (`/v1/stt/relay`) to Cloudflare Workers Anycast edge. Features dual-path Nova-3 STT ladder (`@cf/deepgram/nova-3` in-isolate binding + AI Gateway provider-native WebSocket + direct Deepgram + standby OCI relay), sub-150ms TTFT chat with automated Groq failover, and zero-egress multimodal vision OCR.
+- **Autonomous Agent Runtime (`haggle-oracle`)**: Outbound-only private VPC tunnel execution on Oracle VM with BullMQ persistent queue, 3-tier policy safety boundaries, and a 5-tier resilient model fallback cascade (Anthropic Claude $\rightarrow$ Google Gemini $\rightarrow$ Hugging Face $\rightarrow$ Groq $\rightarrow$ Safe Simulation) with timing-safe HMAC-SHA256 callback delivery to edge KV.
+
+### What's New in v0.1.1
 
 Version 0.1.1 introduces the stateful "Intelligence OS" control plane, Hindsight long-term memory, deterministic answer humanization, sandboxed local code execution, and low-latency regional STT relay migration:
 
@@ -426,7 +435,7 @@ Version 0.1.1 introduces the stateful "Intelligence OS" control plane, Hindsight
 - [Why Haggle wins](#why-haggle-wins)
 - [AI Coding Assistant](#free-ai-coding-interview-assistant-undetectable-on-leetcode-hackerrank--coderpad)
 - [Haggle Pro](#haggle-pro)
-- [What's New in v0.1.1](#whats-new-in-v011-latest-release)
+- [What's New in v0.1.2](#whats-new-in-v012-latest-release)
 - [Privacy & Security](#privacy--security-core-design-principle)
 - [Download & Installation](#download--installation)
 - [AI Providers](#ai-providers)
@@ -525,8 +534,11 @@ Official desktop binaries for macOS (Apple Silicon & Intel) and Windows (x64) ar
 **Haggle is 100% free to use with your own keys.**  
 Connect **any** speech provider and **any** LLM. No subscriptions, no markups, no hidden fees. All keys are stored locally.
 
-### Unlimited Free Transcription (Whisper, Google, Deepgram)
+### Unlimited Free Transcription (Whisper, Google, Deepgram, Apple, NVIDIA)
 
+- **Apple Speech** - _macOS 26+ native on-device, zero-latency, 100% free & private_
+- **NVIDIA NIM & Riva** (API Key / Custom Endpoint) - _Parakeet-CTC 1.1B, Parakeet-TDT, Canary-1B streaming STT_
+- **Local Whisper (On-Device ONNX)** - _Moonshine, Whisper-large-v3-turbo, distil-large-v3 — 100% offline_
 - **Soniox** (API Key) - _Ultra-fast, highly accurate streaming STT_
 - **Google Cloud Speech-to-Text** (Service Account)
 - **Groq** (API Key)
@@ -626,7 +638,7 @@ Setup Summary:
 
 - **Profile Intelligence Router (v2)**: Seamlessly categorizes user questions into distinct domains (Coding, System Design, Behavioral, Negotiation) to apply the most optimal reasoning path.
 - **Answer-Type Constraints & Follow-Up Resolver**: Contextually tracks conversations to answer subsequent queries, and enforces precise layout constraints (such as short, conversational, bulleted, or code-only responses).
-- **Custom Persona Modes**: Seamlessly switch between built-in personas (Technical Interview, Sales, Recruiting) or create your own custom modes tailored to any conversation.
+- **Custom Persona Modes (9 Built-in + Custom)**: Seamlessly switch between 9 tailored personas (General, Technical Interview, Looking for Work, Sales, Recruiting, Team Meet, Lecture, Seminar, and Call Center) or create your own custom modes tailored to any conversation.
 - **Reference Files & Custom Context**: Upload PDFs, DOCX files, or type custom instructions to give the AI real-time context on your specific situation.
 - **Job Description & Resume Context**: Haggle understands your background and the role you're applying for to provide highly tailored, context-aware answers.
 - **Company Research**: Get instant intelligence and dossiers on the company you are interviewing with.
@@ -645,6 +657,7 @@ Create local `SKILL.md` files to give the AI specialized instructions for any ta
 
 ### Contextual Actions
 
+- **Hands-Free Auto Answer (Beta)**: Ambient real-time evaluator automatically suggests answers to interviewer questions without hotkeys (`Cmd+Shift+A` / `Ctrl+Shift+A`).
 - What should I answer?
 - Shorten response
 - Recap conversation
@@ -702,7 +715,7 @@ Haggle includes a powerful, local-first meeting management system to review, sea
 ![Dashboard Preview](assets/dashboard-preview.png)
 
 - **Meeting Archives:** Access full transcripts of every past meeting, searchable by keywords or dates.
-- **Smart Export:** One-click export of transcripts and AI summaries to **Markdown, JSON, or Text**—perfect for pasting into Notion, Obsidian, or Slack.
+- **Smart Export:** One-click export of transcripts and AI summaries to **PDF (with native CJK ideographic formatting), Markdown, JSON, or Text**—perfect for pasting into Notion, Obsidian, Slack, or archival printing.
 - **Usage Statistics:** Track your token usage and API costs in real-time. Know exactly how much you are spending on Gemini, OpenAI, or Claude.
 - **Audio Separation:** Distinct controls for **System Audio** (what they say) vs. **Microphone** (what you dictate).
 - **Session Management:** Rename, organize, or delete past sessions to keep your workspace clean.
@@ -714,9 +727,11 @@ Haggle includes a powerful, local-first meeting management system to review, sea
 ```mermaid
 timeline
     title Haggle Product Roadmap
-    section Recently Completed
-        Personas : ✅ Custom Modes & Templates
-        Trial : ✅ 10-Minute Free Trial
+    section Recently Completed (v0.1.2)
+        Personas : ✅ Call Center Mode (9 Built-in Modes)
+        Automation : ✅ Hands-Free Auto Answer Engine
+        Speech : ✅ Apple Speech & NVIDIA NIM STT
+        Export : ✅ CJK Meeting PDF Exporter
     section Short-term (1-3 mos)
         System Design : Visualization MVP
         Tokens : Integration POC
@@ -853,7 +868,7 @@ Commercial license requests: contact@algeris.com · https://haggle.algeris.com/
 
 - **Terms of Service**: https://haggle.algeris.com/terms
 - **Privacy Policy**: https://haggle.algeris.com/privacy
-- **Refund Policy**: https://github.com/Algeris/haggle-releases/blob/main/refunds.md
+- **Refund Policy**: https://github.com/Algeris/haggle-releases/blob/main/refund.md
 - **Releases**: https://github.com/Algeris/haggle-releases/releases
 
 > **Note:** This project is available for sponsorships, ads, or partnerships – perfect for companies in the AI, productivity, or developer tools space.

@@ -41,7 +41,7 @@ Before creating a bug report, please check existing open issues to avoid duplica
 - Step-by-step instructions to reproduce the issue.
 - Expected behavior vs. actual observed behavior.
 - Relevant log snippets (redacting any private API keys or personal details).
-- App version (e.g. `v0.1.1`) and operating system (Windows / macOS / Linux architecture).
+- App version (e.g. `v0.1.2`) and operating system (Windows / macOS / Linux architecture).
 - Screenshots or recordings if applicable.
 
 ### Suggesting Enhancements

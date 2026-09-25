@@ -95,9 +95,12 @@ The data sent to a provider is **not anonymised** — transcripts and prompts co
 
 ### 4.1 Speech-to-text providers
 
-Depending on your settings, audio chunks may be sent to one of:
+Depending on your settings, audio chunks may be processed by one of:
 
-- **Haggle STT** (operated by us, billed via the Haggle API)
+- **Apple Speech** (100% on-device speech-to-text on macOS 26+ using native Speech framework; zero cloud latency and no audio leaves your device)
+- **Local Whisper (ONNX)** (Runs 100% offline and locally on your machine; no audio leaves your device)
+- **Haggle Edge STT Relay** (Operated on Cloudflare Edge via `@cf/deepgram/nova-3` in-isolate Workers AI binding and AI Gateway provider-native WebSocket relay; with standby OCI relay failover)
+- **NVIDIA NIM & Riva** (Streaming STT via NVIDIA Cloud Functions or self-hosted on-premise Riva endpoints)
 - **Google Cloud Speech-to-Text**
 - **Groq** (Whisper via Groq)
 - **OpenAI** (Whisper)
@@ -107,13 +110,14 @@ Depending on your settings, audio chunks may be sent to one of:
 - **IBM Watson Speech-to-Text**
 - **Soniox**
 
-Each of these providers has its own privacy policy and data-retention behaviour.
+Each cloud provider has its own privacy policy and data-retention behaviour.
 
 ### 4.2 AI / language-model providers
 
 Depending on your settings, prompts and transcripts may be sent to one of:
 
-- **Haggle / Algeris Gateway** (operated by us, billed via the Haggle API; routes to underlying models)
+- **Haggle Edge Gateway (`edge.algeris.com`)** (Workers AI `@cf/meta/llama-3.3-70b` and Groq `openai/gpt-oss-120b` fallback; vision OCR via `@cf/meta/llama-4-scout`)
+- **Autonomous Agent Runtime (`haggle-oracle`)** (Isolated background mission execution on OCI with 5-tier fallback across Anthropic Claude, Google Gemini, Hugging Face, Groq, and safe simulation)
 - **OpenAI** (GPT family)
 - **Anthropic** (Claude family)
 - **Google** (Gemini family)
