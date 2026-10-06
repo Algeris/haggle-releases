@@ -21,7 +21,7 @@ Dedicated customer support and IT helpdesk mode:
 
 ### 2. Hands-Free Auto Answer Engine (Beta)
 **Status:** Shipped (v0.1.2)  
-**Access:** Haggle Pro / Elite (and Trial)
+**Access:** Pro & Max (and Free trial)
 
 Ambient background conversation evaluator:
 - **Zero-Touch Assistance**: Detects actionable interviewer questions and triggers answers without requiring hotkeys.

@@ -98,7 +98,7 @@ If you bought Haggle or a Haggle subscription through a **third-party app market
 Email **contact@algeris.com** with:
 
 1. Your **order ID** (from your purchase confirmation receipt).
-2. The **product/tier** (Haggle Pro or Haggle API).
+2. The **product/tier** (Haggle Pro, Haggle Max, Haggle App BYOK, or Haggle API).
 3. A short note explaining the issue.
 
 We aim to reply within **24–72 hours on weekdays**.

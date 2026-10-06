@@ -323,33 +323,32 @@ Under the hood, Haggle API connects you to the absolute best models for the opti
 **Replaced by Haggle API:**
 
 - **AI chat, transcription & web search** — all included
-- **One flat subscription.** Zero surprise bills. Starts at $8/mo.
+- **One flat subscription.** Zero surprise bills. Starts at $15/mo for managed cloud, or $8/mo for BYOK.
 - **Single key.** Zero rotation. Zero configuration.
 
 ### API Plan Comparison
 
-| Feature                               | Standard ($8/mo) | Pro ($15/mo) | Max ($25/mo) | Ultra ($35/mo) |
-| :------------------------------------ | :--------------- | :----------- | :----------- | :------------- |
-| **All-in-One Cloud AI Access**        | ✅ Yes           | ✅ Yes       | ✅ Yes       | ✅ Yes         |
-| **Real-Time Transcription**           | ✅ Yes           | ✅ Yes       | ✅ Yes       | ✅ Yes         |
-| **Included Haggle Pro Desktop App** | ❌ No            | ✅ Yes       | ✅ Yes       | ✅ Yes         |
-| **Premium Support**                   | ❌ No            | ✅ Yes       | ✅ Yes       | ✅ Yes         |
-| **Higher Monthly Quotas**             | ❌ No            | ✅ Yes       | ✅ Yes       | ✅ Yes         |
-
-**Don't start the long way.** Skip the 20-minute manual setup. One Haggle subscription skips all of it — AI, transcription, and web search are ready immediately.
+| Feature                               | Free ($0) | Pro ($15/mo) | Max ($29/mo) | Haggle App BYOK ($8/mo / $99) |
+| :------------------------------------ | :-------- | :----------- | :----------- | :---------------------------- |
+| **Sessions per Month**                | 3 sessions| Unlimited    | Unlimited    | Unlimited (on-device)         |
+| **Managed Cloud AI Access**           | Standard  | Standard     | Premium      | ❌ Bring Your Own Key / Local |
+| **Real-Time Transcription**           | 15m/sess  | 120m/sess    | 180m/sess    | Local Whisper / Personal Keys |
+| **Desktop App License**               | Basic     | ✅ Included  | ✅ Included  | ✅ Included (Standalone)     |
+| **Profile Intelligence & Memory**     | ❌ No     | ❌ No        | ✅ Yes       | ✅ Yes                        |
+| **Fair-Use Protected (Zero Meters)**  | ❌ No     | ✅ Yes       | ✅ Yes       | ✅ Unlimited Local            |
 
 <p align="center">
-  <a href="https://checkout.dodopayments.com/buy/pdt_0NlxMoqfnenWh9cR0BTSl">
-    <img src="https://img.shields.io/badge/Standard_Plan-Subscribe_Now-94a3b8?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <a href="https://checkout.dodopayments.com/buy/pdt_0NpAEEEz0e3DqkbB7kuko">
+    <img src="https://img.shields.io/badge/Pro_Monthly ($15)-Subscribe_Now-8b5cf6?style=for-the-badge&logo=fastapi&logoColor=white" />
   </a>
-  <a href="https://checkout.dodopayments.com/buy/pdt_0NmkWLLPJKXXtucK9WvVS">
-    <img src="https://img.shields.io/badge/Pro_Plan-Subscribe_Now-8b5cf6?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <a href="https://checkout.dodopayments.com/buy/pdt_0NpAEEJkOMyLbIFkskhrR">
+    <img src="https://img.shields.io/badge/Pro_Annual ($144)-Subscribe_Now-8b5cf6?style=for-the-badge&logo=fastapi&logoColor=white" />
   </a>
-  <a href="https://checkout.dodopayments.com/buy/pdt_0NlxMU1pU1un3FHRdm36Y">
-    <img src="https://img.shields.io/badge/Max_Plan-Subscribe_Now-6366f1?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <a href="https://checkout.dodopayments.com/buy/pdt_0NpAEENb9CYi96RZouFuS">
+    <img src="https://img.shields.io/badge/Max_Monthly ($29)-Subscribe_Now-6366f1?style=for-the-badge&logo=fastapi&logoColor=white" />
   </a>
-  <a href="https://checkout.dodopayments.com/buy/pdt_0NlxMUBjhNhSr5fPnIHPy">
-    <img src="https://img.shields.io/badge/Ultra_Plan-Subscribe_Now-fbbf24?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <a href="https://checkout.dodopayments.com/buy/pdt_0NpAEEfnoP5CYf2mzNu9R">
+    <img src="https://img.shields.io/badge/BYOK_Lifetime ($99)-Buy_Now-10b981?style=for-the-badge&logo=fastapi&logoColor=white" />
   </a>
 </p>
 
@@ -393,11 +392,11 @@ While Haggle is **free for personal, educational, research, and non-commercial u
 | **Priority Feature Access & Support**               |      ❌       |      ✅      |
 
 <p align="center">
-  <a href="https://checkout.dodopayments.com/buy/pdt_0NlxMUU4haRgZwQ2pYGMA">
-    <img src="https://img.shields.io/badge/Lifetime_License-Unlock_Premium-facc15?style=for-the-badge&logo=fastapi&logoColor=black" />
+  <a href="https://checkout.dodopayments.com/buy/pdt_0NpAEEfnoP5CYf2mzNu9R">
+    <img src="https://img.shields.io/badge/BYOK_Lifetime ($99)-Unlock_Standalone-facc15?style=for-the-badge&logo=fastapi&logoColor=black" />
   </a>
-  <a href="https://checkout.dodopayments.com/buy/pdt_0NlxMUOm31CNCUIf28Zr1">
-    <img src="https://img.shields.io/badge/Yearly_License-Unlock_Premium-black?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <a href="https://checkout.dodopayments.com/buy/pdt_0NpAEEJkOMyLbIFkskhrR">
+    <img src="https://img.shields.io/badge/Pro_Annual ($144)-Unlock_Cloud-8b5cf6?style=for-the-badge&logo=fastapi&logoColor=white" />
   </a>
 </p>
 
